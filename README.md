@@ -2,7 +2,7 @@
 Hello! My name is Autumn Rivers, and I am a hobbyist programmer. Though I do wish to get into professional programming, I unfortunately don't see that happening soon.
 But nevermind that, let's learn more about me!
 
-I'm the founder (and sole member, so far) of @diamondgrid, and I prefer making my projects open-source when I can. So I use GitHub quite a bit.
+I'm the founder (and sole member, so far) of [Diamond Grid](https://github.com/diamondgrid), and I prefer making my projects open-source when I can. So I use GitHub quite a bit.
 
 My pronouns are She/Her, and Fae/Faer.
 
