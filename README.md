@@ -4,11 +4,20 @@ But nevermind that, let's learn more about me!
 
 I'm the founder (and sole member, so far) of [Diamond Grid](https://github.com/diamondgrid), and I prefer making my projects open-source when I can. So I use GitHub quite a bit.
 
-My pronouns are She/Her, and Fae/Faer.
+My pronouns are She/Her, They/Them, and any neopronouns.
 
-You can reach me on [Twitter](https://twitter.com/NatiRivers) and [Discord](https://discord.gg/2w9VTE7).
+I also go by Nati!
 
-I also go by Nati and Cheryl!
+## Current Projects
+- ⚡ **Spark**: Real-time jukebox so you can listen to music with other people. 100% free and open-source!
+- 🪙 **Heirloom**: GUI for Legendary, built upon Electron
+- 🥧 **Toontown.Godot**: A port of Toontown Online to the Godot Engine. Looking for help with this!
+- 🎶 **Synthestesia**: RPG-based puzzle game centered around themes of neurodivergency
+
+## Contact
+- 🐦 [Twitter](https://www.twitter.com/NatiRivers)
+- 💬 Discord: Ohana#5434
+- 📧 [Business E-mail](mailto:natirivers@protonmail.ch)
 
 <!--
 **AutumnRivers/AutumnRivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
