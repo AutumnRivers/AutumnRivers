@@ -13,7 +13,7 @@ I also go by Nati!
 - 🪙 **Heirloom**: GUI for Legendary, built upon Electron
 - ⚙ **Virtual VP** (Working Title): VR reimagining of the Sellbot VP fight from Toontown Online. Stay tuned!
 - 🥧 **Toontown.Godot**: A port of Toontown Online to the Godot engine, made with developers and players alike in mind.
-- 🎶 **Synthestesia**: RPG-based puzzle game centered around themes of neurodivergency
+- 🏎 **TinyKart**: Emulated server for LittleBigPlanet™ Karting on the PlayStation 3.
 
 ## Contact
 - 🐦 [Twitter](https://www.twitter.com/NatiRivers)
