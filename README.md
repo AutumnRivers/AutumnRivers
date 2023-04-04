@@ -8,13 +8,6 @@ My pronouns are She/Her, They/Them, and any neopronouns.
 
 I also go by Nati!
 
-## Current Projects
-- ⚡ **Spark**: Real-time jukebox so you can listen to music with other people. 100% free and open-source!
-- 🪙 **Heirloom**: GUI for Legendary, built upon Electron
-- ⚙ **Virtual VP** (Working Title): VR reimagining of the Sellbot VP fight from Toontown Online. Stay tuned!
-- 🥧 **Toontown.Godot**: A port of Toontown Online to the Godot engine, made with developers and players alike in mind.
-- 🏎 **TinyKart**: Emulated server for LittleBigPlanet™ Karting on the PlayStation 3.
-
 ## Contact
 - 🐦 [Twitter](https://www.twitter.com/NatiRivers)
 - 💬 Discord: Ohana#5434
