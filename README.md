@@ -1,3 +1,6 @@
+# Hi there, nice to meet ya
+I'm mostly over on [git.gay](https://git.gay/AutumnRivers) now, so you should follow me there, instead.
+
 ## Autumn Rivers
 Hello! My name is Autumn Rivers, and I am a hobbyist programmer. Though I do wish to get into professional programming, I unfortunately don't see that happening soon.
 But nevermind that, let's learn more about me!
